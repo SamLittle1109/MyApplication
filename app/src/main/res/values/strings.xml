@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> </string>
+
+    <string name="hello_world"> </string>
+    <string name="action_settings"> </string>
+    <string name="title_activity_into"> </string>
+    <string name="title_activity_intro"> </string>
+    <string name="title_activity_profile"> </string>
+    <string name="title_activity_high_score"> </string>
+    <string name="title_activity_difficulty">DifficultyActivity</string>
+    <string name="title_activity_hard">HardActivity</string>
+</resources>
